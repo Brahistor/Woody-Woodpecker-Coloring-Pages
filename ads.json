@@ -1,25 +1,26 @@
 {
   "ads_manager": {
     "mintegral": {
-      "showAds": fals,
-      "app_id": "xxxxxxx",
-      "app_key": "xxxxxxxx",
+      "showAds": true,
+      "app_id": "401429",
+      "app_key": "5fd9cc148e22032555fade7cb90c4bf4",
       "banner": {
-        "placement_id": "xxxxxxx",
-        "unit_id": "xxxxxxxx"
+        "placement_id": "2681487",
+        "unit_id": "4843973"
       },
       "interstitial": {
-        "placement_id": "xxxxxxxx",
-        "unit_id": "xxxxxxxxxxx"
+        "placement_id": "4843975",
+        "unit_id": "2681489"
       },
       "native": {
-        "placement_id": "xxxxxxxx",
-        "unit_id": "xxxxxxxxx"
+        "placement_id": "2681493",
+        "unit_id": "4843979"
       },
       "reward": {
-        "placement_id": "xxxxxxx",
-        "unit_id": "xxxxxxxxxx"
+        "placement_id": "2681491",
+        "unit_id": "4843977"
       }
     }
   }
+
 }
